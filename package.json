@@ -1,0 +1,26 @@
+{
+  "name": "who-code-challenges",
+  "version": "1.0.0",
+  "description": "Who code challenges",
+  "main": "challenge-1-buble.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buble-sort": "node challenge-1-buble.js",
+    "factorial": "node challenge-2-factorial.js",
+    "lineal-search": "node challenge-2-lineal-search.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanch7/who-code-challenges.git"
+  },
+  "keywords": [
+    "js",
+    "chagellenges"
+  ],
+  "author": "Jonathan CH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathanch7/who-code-challenges/issues"
+  },
+  "homepage": "https://github.com/jonathanch7/who-code-challenges#readme"
+}
