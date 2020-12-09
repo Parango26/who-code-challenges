@@ -2,7 +2,7 @@
  * @param {*} array array of integers
  */
 const bubleSort = (array) => {
-    console.log("Original:", array0);
+    console.log("Original:", array0); // esta variable no existe... Pero no pasa nada :)
   const arraySort = array;
   const length = array.length;
   for (let i = 0; i < length - 1; i++) {
